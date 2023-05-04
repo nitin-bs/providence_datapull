@@ -1,5 +1,5 @@
 [
   {
     "installationId": "091e02f3-bea3-4592-a761-cab86d913d17",
-    "params": "{\"sshKey\":\"ssh-rsa <rsakey>",\"databricksToken\":\"<db_token>\",\"dfUserName\":\"admin@infoworks.io\",\"dfPassword\":\"<encrypted_pass>",\"authToken\":\"<auth_token>",\"auth_token\":\"<auth_token>",\"signUpUserName\":\"dev@infoworks.io\",\"signUpPassword\":\"<encrypted_pass>\",\"signUpAuthToken\":\"<auth_token>",\"ssgName\":\"nsgName\",\"optOutOfMonitoring\":true,\"securityRules\":{\"securityRules\":\"\"},\"output\":{\"public_ip\":\"52.188.68.189\",\"domain_name\":\"http://df-Bbeu0KKn.sandbox.infoworks.io:3000\"}}"
+    "params": "{\"sshKey\":\"ssh-rsa <rsakey>",\"databricksToken\":\"<db_token>\",\"dfUserName\":\"admin@infoworks.io\",\"dfPassword\":\"<encrypted_pass>\",\"authToken\":\"<auth_token>\",\"auth_token\":\"<auth_token>\",\"signUpUserName\":\"dev@infoworks.io\",\"signUpPassword\":\"<encrypted_pass>\",\"signUpAuthToken\":\"<auth_token>",\"ssgName\":\"nsgName\",\"optOutOfMonitoring\":true,\"securityRules\":{\"securityRules\":\"\"},\"output\":{\"public_ip\":\"52.188.68.189\",\"domain_name\":\"http://df-Bbeu0KKn.sandbox.infoworks.io:3000\"}}"
   }]
